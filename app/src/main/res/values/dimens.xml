@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="addChildWidth">140dp</dimen>
+    <dimen name="addChildHeight">58dp</dimen>
+    <dimen name="constraintWidth">192dp</dimen>
+    <dimen name="avatarWidth">120sp</dimen>
+    <dimen name="avatarHeight">120sp</dimen>
+    <dimen name="assignedTo">16sp</dimen>
+    <dimen name="assignedToHorizontalMargin">32sp</dimen>
+    <dimen name="assignedToVerticalMargin">32sp</dimen>
+    <dimen name="addChildButtonTextSize">15sp</dimen>
+
+</resources>
